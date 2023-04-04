@@ -9,7 +9,7 @@ Realization of my paper named "Two ResNet Mini Architectures for Aircraft Wake V
 2. 论文：https://ieeexplore.ieee.org/document/10054052 欢迎验证与引用。
 
 3. 环境配置：
-python == 3.6.0 
-tensorflow-gpu == 1.9.0 
-keras == 2.2.0 
-numpy == 1.18.1 
+python == 3.6.0  
+tensorflow-gpu == 1.9.0  
+keras == 2.2.0  
+numpy == 1.18.1  
