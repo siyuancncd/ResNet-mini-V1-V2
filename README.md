@@ -1,2 +1,8 @@
 # ResNet-mini-V1-V2
 Realization of my paper named "Two ResNet Mini Architectures for Aircraft Wake Vortex Identification"
+
+数据处理：data.py和utils_paths.py
+神经网络模型：model.py
+训练和评估：train_evaluate.py
+
+论文：https://ieeexplore.ieee.org/document/10054052 欢迎验证与引用。
