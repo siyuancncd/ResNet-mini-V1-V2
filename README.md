@@ -1,5 +1,5 @@
 # ResNet-mini-V1-V2
-Realization of my paper named "Two ResNet Mini Architectures for Aircraft Wake Vortex Identification"
+Realization of our paper named "Two ResNet Mini Architectures for Aircraft Wake Vortex Identification"
 
 1. 文件说明
 数据处理：data.py和utils_paths.py
